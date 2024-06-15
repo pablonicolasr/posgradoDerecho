@@ -6,9 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-legal.csv
-clean_text.csv
-
 # Distribution / packaging
 .Python
 build/
